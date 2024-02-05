@@ -1,6 +1,6 @@
 # ------ COURSE PARAMS ------
-course_id = 'ai4eng.v1'
-github_repo = 'rramosp/ai4eng.v1'
+course_id = 'ai4eng.v1.unal'
+github_repo = 'fagonzalezo/ai4eng-unal'
 endpoint = 'https://m5knaekxo6.execute-api.us-west-2.amazonaws.com/dev-v0001/rlxmooc'
 # ------ COURSE PARAMS ------
 

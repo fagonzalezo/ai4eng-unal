@@ -131,3 +131,4 @@ dmypy.json
 
 # Docs
 _build
+.DS_Store
