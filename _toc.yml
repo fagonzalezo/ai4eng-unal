@@ -1,4 +1,6 @@
-- file: intro
+format: jb-article
+root: intro
+sections:
 - file: content/M01_videos
   sections:
   - file: content/NOTES 01.01 - PROYECTO KAGGLE
