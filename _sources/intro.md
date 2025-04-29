@@ -1,6 +1,6 @@
 # Información del curso
 
-Bienvenid@s al curso de **Inteligencia Artificial para las Ciencias y las Ingenierías**. Este curso es parte del curso [Introducción a los Sistemas Inteligentes](https://fagonzalezo.github.io/iis-2024-1) de la Universidad Nacional de Colombia y está basado en el curso análogo que ofrece la **Facultad de Ingeniería**, en la **Universidad de Antioquia**, en Medellín, Colombia. 
+Bienvenid@s al curso de **Inteligencia Artificial para las Ciencias y las Ingenierías**. Este curso es parte del curso [Introducción a los Sistemas Inteligentes](https://fagonzalezo.github.io/iis-2025-1) de la Universidad Nacional de Colombia y está basado en el curso análogo que ofrece la **Facultad de Ingeniería**, en la **Universidad de Antioquia**, en Medellín, Colombia. 
 
 El curso original ofrecido por la Universidad de Antioquia se puede acceder a través de [este enlace](https://rramosp.github.io/ai4eng.v1/intro.html), y el contenido de ese curso se encuentra abierto a cualquier persona que desee aprender sobre el tema. 
 
@@ -19,7 +19,7 @@ allowfullscreen></iframe>
 
 En el menú de la izquierda podrás **navegar por los materiales del curso**, acceder a los videos notebooks y talleres.
 
-Si estás registrado en el curso de [Introducción a los Sistemas Inteligentes](https://fagonzalezo.github.io/iis-2024-1), recibirás infromación sobre inscripción a través [Campuswire](https://campuswire.com/). Si no estás registrado, puedes acceder al curso abierto ofrecido por la Universidad de Antioquía a través de [este enlace](https://rramosp.github.io/ai4eng.v1/intro.html).
+Si estás registrado en el curso de [Introducción a los Sistemas Inteligentes](https://fagonzalezo.github.io/iis-2025-1), recibirás infromación sobre inscripción a través [Campuswire](https://campuswire.com/). Si no estás registrado, puedes acceder al curso abierto ofrecido por la Universidad de Antioquía a través de [este enlace](https://rramosp.github.io/ai4eng.v1/intro.html).
 
 
 Una vez registrado podrás entrar a la [**PLATAFORMA DE SEGUIMIENTO**](https://m5knaekxo6.execute-api.us-west-2.amazonaws.com/dev-v0001/rlxmooc/web/login) y acceder a las evaluaciones automáticas.
